@@ -339,14 +339,17 @@ li a:hover{
 .footer{
     background-color: black;
     color: white;
-    padding-top: 50px;
-    padding-bottom: 30px;
+    padding-top: 90px;
+    padding-bottom: 90px;
 }
 .footer-one{
     float: right;  
 }
 .footer-one p{
     line-height: 34px;
+}
+.footer-one img{
+    padding-bottom: 16px;
 }
 .footer-two{
     float: left;
@@ -357,6 +360,7 @@ li a:hover{
 }
 .footer-two h2{
     font-size: 25px;
+    padding-bottom: 18px;
 }
 .number{
     color:orange;
