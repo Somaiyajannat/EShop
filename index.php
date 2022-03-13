@@ -138,28 +138,28 @@
                             <img src="images/t1.jpg">
                             <div class ="description">
                                 <p class ="p1">Womens Hot Collection</p>
-                                <p>$22</p>
+                                <p>$22.00</p>
                             </div>
                         </div>
                         <div class ="col-md-3">
                             <img src="images/t2.jpg">
                             <div class ="description">
                                 <p class ="p1">Shoes</p>
-                                <p>$23</p>
+                                <p>$23.00</p>
                             </div>
                         </div>
                         <div class ="col-md-3">
                             <img src="images/t3.jpg">
                             <div class ="description">
                                 <p class ="p1">Bags Collection</p>
-                                <p>$21</p>
+                                <p>$21.00</p>
                             </div>
                         </div>
                         <div class ="col-md-3">
                             <img src="images/t4.jpg">
                             <div class ="description">
                                 <p class ="p1">PantCollection</h3>
-                                <p>$29</p>
+                                <p>$29.00</p>
                             </div>
                         </div>
                     </div>
@@ -174,31 +174,31 @@
                         <img src="images/t5.jpg">
                         <div class ="description">
                             <p class ="p1">Glass Collection</p>
-                            <p>$20</p>
+                            <p>$20.00</p>
                         </div>
                     </div>
                     <div class ="col-md-3">
                         <img src="images/t6.jpg">
                         <div class ="description">
                             <p class ="p1">Womens Hot Collection</p>
-                            <p>$25</p>
+                            <p>$25.00</p>
                         </div>
                     </div>
                     <div class ="col-md-3">
                         <img src="images/t7.jpg">
                         <div class ="description">
                             <p class ="p1">Hats Collection</p>
-                            <p>$30</p>
+                            <p>$30.00</p>
                         </div>
                     </div>
                     <div class ="col-md-3">
                         <img src="images/t8.jpg">
                         <div class ="description">
                             <p class ="p1">Womens bags Collection</h3>
-                            <div class ="">
-                                <p class ="price" >$60</p>
+                            <!-- <div class =""> -->
+                                <p class ="price" >$60.00</p>
                                 <p style="display: inline-block;">$20</p>
-                            </div>
+                            <!-- </div> -->
                         </div>
                     </div>
                 </div>
@@ -418,7 +418,7 @@
                         <h2>NewsLetter</h2>
                         <p>Subcscibe to our news letter and get <span style="color:red">10%</span> discount</p>
                         <input type ="search" class ="col-md-6 gsearch" id ="gsearch" name ="gsearch" placeholder="Your Email Address">
-                        <input type="submit" value="Subscribe">
+                        <input type="submit" id ="subs"value="Subscribe">
                         
                     </div>
                 </div>
@@ -452,7 +452,7 @@
                     </div>
                     <div class ="col-md-2 footer-two">
                         <h2>Address</h2>
-                        <hp>NO. 342 - London Oxford Street.</p2>
+                        <p>NO. 342 - London Oxford Street.</p>
                         <p>012 United Kingdom</p>
                         <p>info@eshop.com</p>
                         <p>+032 3456 7890</p>
@@ -460,6 +460,19 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div class ="footer2nd">
+            <div class ="container">
+                <div class ="row">
+                    <div class ="col-md-6 copy">
+                        <p>Copyright &copy 2020 Eshp - All Rights Reserve</p>
+                    </div>
+                    <div class ="col-md-6 payment">
+                        <img src="images/payments.png">
+                    </div>
+                </div>
+            </div>
+            
         </div>
     </div>    
         
